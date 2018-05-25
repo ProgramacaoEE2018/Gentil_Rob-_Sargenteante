@@ -11,6 +11,12 @@ Robô sargenteante.
   Fazer a escala de serviço é um processo majoritariamente mecânico que pode vim a custar demasiado tempo de alunos da SE/3 e outras engenharias. Tempo esse que poderia ser gasto estudando, trabalhando em projetos, se desenvolvendo ou mesmo repousando. E algo que a faça automaticamente poderia, assim, fim a contribuir pro desenvolvimento tecnológico do país como um todo. 
   
 # Documentação
+**Tutorial QT**
+
 O tutorial seguido foi:https://www.youtube.com/watch?v=ImY-H7VJjwE&list=PL0meOoSt675fF8xBzifArQyGwfZ-39SGA&index=2
 gerando a seguinte interfarce:
 ![Tutorial](Capturar.PNG)
+
+**Esboço GUI**
+![Sgtbo](Sgtbo.PNG)
+![Escala](escala1.PNG)
