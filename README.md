@@ -17,6 +17,11 @@ O tutorial seguido foi:https://www.youtube.com/watch?v=ImY-H7VJjwE&list=PL0meOoS
 gerando a seguinte interfarce:
 ![Tutorial](Capturar.PNG)
 
+**Fluxograma e Diagrama de Blocos**
+![Fluxograma](Fluxograma.png)
+![Diagrama de Blocos](Diagrama.png)
+
+
 **Esboço GUI**
 ![Sgtbo](Sgtbo.PNG)
 ![Escala](escala1.PNG)
