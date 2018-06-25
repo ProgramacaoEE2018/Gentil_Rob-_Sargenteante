@@ -26,7 +26,7 @@ gerando a seguinte interfarce:
 
 
 **Esboço GUI**
-![cap](Capturar.PNG)
+![cap](Sgtbo.PNG)
 ![ie](inserir_escala.PNG)
 ![im](inserir_militar.PNG)
 ![Escala](escala1.PNG)
