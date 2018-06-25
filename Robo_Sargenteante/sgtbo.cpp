@@ -37,3 +37,8 @@ void Sgtbo::on_bFazer_Escala_clicked()
 {
     QMessageBox::critical(this, "ERRO", "Insira uma escala primeiro");
 }
+
+void Sgtbo::on_pushButton_clicked()
+{
+     QMessageBox::critical(this, "ERRO", "Não foi possivel identificar Escala ou Militar");
+}
