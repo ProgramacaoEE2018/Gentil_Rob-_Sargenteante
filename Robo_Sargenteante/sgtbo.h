@@ -28,6 +28,8 @@ private slots:
 
     void on_bFazer_Escala_clicked();
 
+    void on_pushButton_clicked();
+
 private:
     Novo_Militar *nmilitar;
     nova_escala *nescala;
