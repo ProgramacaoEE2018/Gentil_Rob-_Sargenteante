@@ -28,3 +28,12 @@ gerando a seguinte interfarce:
 **Esboço GUI**
 ![Sgtbo](Sgtbo.PNG)
 ![Escala](escala1.PNG)
+
+## Instrução de compilação para Windows 10 32-bits
+
+Para compilação do programa na pasta Robo_Sargenteante deste repositóri, foi utilizado QT Creator 4.6.1 com o kit MinGW 5.3.0 , logo será necessário a instalação do mesmo. Assim será precisso a seleção do projeto Robo_Sargenteante.pro que estará incluido os arquivos necessários. Após isso será necessário fazer o *build* do projeto, que será montado em um diretório de acordo com a configuração do QT Creator. Agora utilizando o *QT 5.10.1 for Desktop* deve-se ir a pasta onde o executável foi montado e digitar "windeployqt.exe --quick --no-translations ." o que fará instalar as dependências do executável. Com isso o programa estará pronto para ser executado.
+
+## Como Utilizar 
+
+inicialmente:
+nos botões indicados deve-se inserir militares com nome seus nomes de guerra e escalas seus nomes e dias da semana em que elas rodam, então adiciona-se cada militar em suas respectivas escalas no botão Add Militar. (Opicional) se necesário altere os status de algum militar. Terminado as preparções clique em fazer a escala. (Opcional) faça uma troca, baixe algum militar ou export uma prévia. Finalizado clique em finalizar escala para exportar a escala definitiva.
