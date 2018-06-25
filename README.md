@@ -15,7 +15,7 @@ Robô sargenteante.
 
 O tutorial seguido foi:https://www.youtube.com/watch?v=ImY-H7VJjwE&list=PL0meOoSt675fF8xBzifArQyGwfZ-39SGA&index=2
 gerando a seguinte interfarce:
-![Tutorial](Capturar.PNG)
+![Tut](tutorial.PNG)
 
 **Fluxograma e Diagrama de Blocos**
 ![Fluxograma](Fluxograma.png)
@@ -26,7 +26,9 @@ gerando a seguinte interfarce:
 
 
 **Esboço GUI**
-![Sgtbo](Sgtbo.PNG)
+![cap](Capturar.PNG)
+![ie](inserir_escala.PNG)
+![im](inserir_militar.PNG)
 ![Escala](escala1.PNG)
 
 ## Instrução de compilação para Windows 10 32-bits
